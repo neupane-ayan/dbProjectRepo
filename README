@@ -1,0 +1,8 @@
+Ayan Neupane - aneupan1
+Ron Prescott - rpresco3
+
+Issues and Concerns: 
+
+Baseball Data: The baseball data was structured very differently from the rest of the Sports Reference data. As such, extracting team rosters for Players and Plays on was done on another website (https://baseballmonster.com/playerrankings.aspx). Consequently, we do not have the “player keys” like Sports Reference data has for NBA, NHL and NFL, so we might lose a few players with the same name to uniqueness constraints, since we are using their names as playerIDs instead of the Sports Reference generated IDs.
+
+All Star Table: Aside from the NBA, the all star information was structured in a very non-scrapable way. Essentially the data was put into the files for individual games, and there is no way to easily access them all. It felt biased to put only NBA information about All Stars, so we decided not to include All Star Data. We already have many other metrics to measure individual player success and team success that HoF would not really add much more to our analysis.
