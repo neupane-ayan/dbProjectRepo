@@ -1,0 +1,107 @@
+﻿sport,year,champion,mvp
+NBA,2001,Los Angeles Lakers,Allen Iverson
+NBA,2002,Los Angeles Lakers,Tim Duncan
+NBA,2003,San Antonio Spurs,Tim Duncan
+NBA,2004,Detroit Pistons,Kevin Garnett
+NBA,2005,San Antonio Spurs,Steve Nash
+NBA,2006,Miami Heat,Steve Nash
+NBA,2007,San Antonio Spurs,Dirk Nowitzki
+NBA,2008,Boston Celtics,Kobe Bryant
+NBA,2009,Los Angeles Lakers,LeBron James
+NBA,2010,Los Angeles Lakers,LeBron James
+NBA,2011,Dallas Mavericks,Derrick Rose
+NBA,2012,Miami Heat,LeBron James
+NBA,2013,Miami Heat,LeBron James
+NBA,2014,San Antonio Spurs,Kevin Durant
+NBA,2015,Golden State Warriors,Stephen Curry
+NBA,2016,Cleveland Cavaliers,Stephen Curry
+NBA,2017,Golden State Warriors,Russell Westbrook
+NBA,2018,Golden State Warriors,James Harden
+NBA,2019,Toronto Raptors,Giannis Antetokounmpo
+NBA,2020,Los Angeles Lakers,Giannis Antetokounmpo
+NBA,2021,Milwaukee Bucks,Nikola Jokić
+MLB,2001,Arizona Diamondbacks,Barry Bonds
+MLB,2001,Arizona Diamondbacks,Ichiro Suzuki
+MLB,2002,Anaheim Angels,Barry Bonds
+MLB,2002,Anaheim Angels,Miguel Tejada
+MLB,2003,Florida Marlins,Barry Bonds
+MLB,2003,Florida Marlins,Alex Rodriguez
+MLB,2004,Boston Red Sox,Barry Bonds
+MLB,2004,Boston Red Sox,Vladimir Guerrero
+MLB,2005,Chicago White Sox,Albert Pujols
+MLB,2005,Chicago White Sox,Alex Rodriguez
+MLB,2006,St. Louis Cardinals,Ryan Howard
+MLB,2006,St. Louis Cardinals,Justin Morneau
+MLB,2007,Boston Red Sox,Jimmy Rollins
+MLB,2007,Boston Red Sox,Alex Rodriguez
+MLB,2008,Philadelphia Phillies,Albert Pujols
+MLB,2008,Philadelphia Phillies,Dustin Pedroia
+MLB,2009,New York Yankees,Albert Pujols
+MLB,2009,New York Yankees,Joe Mauer
+MLB,2010,San Francisco Giants,Joey Votto
+MLB,2010,San Francisco Giants,Josh Hamilton
+MLB,2011,St. Louis Cardinals,Ryan Braun
+MLB,2011,St. Louis Cardinals,Justin Verlander
+MLB,2012,San Francisco Giants,Buster Posey
+MLB,2012,San Francisco Giants,Miguel Cabrera
+MLB,2013,Boston Red Sox,Andrew McCutchen
+MLB,2013,Boston Red Sox,Miguel Cabrera
+MLB,2014,San Francisco Giants,Clayton Kershaw
+MLB,2014,San Francisco Giants,Mike Trout
+MLB,2015,Kansas City Royals,Bryce Harper
+MLB,2015,Kansas City Royals,Josh Donaldson
+MLB,2016,Chicago Cubs,Kris Bryant
+MLB,2016,Chicago Cubs,Mike Trout
+MLB,2017,Houston Astros,Giancarlo Stanton
+MLB,2017,Houston Astros,Jose Altuve
+MLB,2018,Boston Red Sox,Christian Yelich
+MLB,2018,Boston Red Sox,Mookie Betts
+MLB,2019,Washington Nationals,Cody Bellinger
+MLB,2019,Washington Nationals,Mike Trout
+MLB,2020,Los Angeles Dodgers,Freddie Freeman
+MLB,2020,Los Angeles Dodgers,José Abreu
+MLB,2021,Atlanta Braves,Bryce Harper
+MLB,2021,Atlanta Braves,Shohei Ohtani
+NFL,2001,New England Patriots,Kurt Warner
+NFL,2002,Tampa Bay Buccaneers,Rich Gannon
+NFL,2003,New England Patriots,Peyton Manning
+NFL,2003,New England Patriots,Steve McNair
+NFL,2004,New England Patriots,Peyton Manning
+NFL,2005,Pittsburgh Steelers,Shaun Alexander
+NFL,2006,Indianapolis Colts,LaDainian Tomlinson
+NFL,2007,New York Giants,Tom Brady
+NFL,2008,Pittsburgh Steelers,Peyton Manning
+NFL,2009,New Orleans Saints,Peyton Manning
+NFL,2010,Green Bay Packers,Tom Brady
+NFL,2011,New York Giants,Aaron Rodgers
+NFL,2012,Baltimore Ravens,Adrian Peterson
+NFL,2013,Seattle Seahawks,Peyton Manning
+NFL,2014,New England Patriots,Aaron Rodgers
+NFL,2015,Denver Broncos,Cam Newton
+NFL,2016,New England Patriots,Matt Ryan
+NFL,2017,Philadelphia Eagles,Tom Brady
+NFL,2018,New England Patriots,Patrick Mahomes
+NFL,2019,Kansas City Chiefs,Lamar Jackson
+NFL,2020,Tampa Bay Buccaneers,Aaron Rodgers
+NFL,2021,Los Angeles Rams,Aaron Rodgers
+NHL,2001,Colorado Avalanche,Joe Sakic
+NHL,2002,Detroit Red Wings,Jose Theodore
+NHL,2003,New Jersey Devils,Peter Forsberg
+NHL,2004,Tampa Bay Lightning,Martin St. Louis
+NHL,2005,null,null
+NHL,2006,Carolina Hurricanes,Joe Thornton
+NHL,2007,Anaheim Ducks,Sidney Crosby
+NHL,2008,Detroit Red Wings,Alex Ovechkin
+NHL,2009,Pittsburgh Penguins,Alex Ovechkin
+NHL,2010,Chicago Blackhawks,Henrik Sedin
+NHL,2011,Boston Bruins,Corey Perry
+NHL,2012,Los Angeles Kings,Evgeni Malkin
+NHL,2013,Chicago Blackhawks,Alex Ovechkin
+NHL,2014,Los Angeles Kings,Sidney Crosby
+NHL,2015,Chicago Blackhawks,Carey Price
+NHL,2016,Pittsburgh Penguins,Patrick Kane
+NHL,2017,Pittsburgh Penguins,Connor McDavid
+NHL,2018,Washington Capitals,Taylor Hall
+NHL,2019,St. Louis Blues,Nikita Kucherov
+NHL,2020,Tampa Bay Lightning,Leon Draisaitl
+NHL,2021,Tampa Bay Lightning,Connor McDavid
