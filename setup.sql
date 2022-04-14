@@ -22,7 +22,30 @@ CREATE TABLE Player (
         hallOfFame int,
         primary key (playerID, sport)
 );
-        
+
+CREATE TABLE Team (
+        teamName varchar(127),
+        sport varchar(127),
+        metroAreaName varchar(127),
+        primary key(teamName, sport)
+);
+
+CREATE TABLE Season (
+        sport varchar(127),
+        `year` datetime,
+        champion varchar(127),
+        mvp varchar(127),
+        primary key(sport, `year`)
+); 
+
+CREATE TABLE TeamRecord (
+        teamName varchar(127),
+        sport varchar(127),
+        `year` datetime,
+        wins int,
+        losses int,
+        primary key(teamName, sport, `year`)
+);       
 
 LOAD DATA LOCAL INFILE '/Users/ayan/Desktop/DB project data/dbProjectRepo/table_MetroArea.csv' 
 INTO TABLE MetroArea
@@ -48,4 +71,35 @@ FIELDS
   TERMINATED BY ','
   ENCLOSED BY '"'
   LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;  
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/Users/ayan/Desktop/DB project data/dbProjectRepo/Teams_relation.csv' 
+INTO TABLE Team
+FIELDS
+  TERMINATED BY ','
+  ENCLOSED BY '"'
+  LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/Users/ayan/Desktop/DB project data/dbProjectRepo/Season_relation.csv' 
+INTO TABLE Season
+FIELDS
+  TERMINATED BY ','
+  ENCLOSED BY '"'
+  LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE '/Users/ayan/Desktop/DB project data/dbProjectRepo/TeamRecord_relation.csv' 
+INTO TABLE TeamRecord
+FIELDS
+  TERMINATED BY ','
+  ENCLOSED BY '"'
+  LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+drop table MetroArea;
+drop table PlaysOn;
+drop table Player;
+drop table Team;
+drop table Season;
+drop table TeamRecord;
